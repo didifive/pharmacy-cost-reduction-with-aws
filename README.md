@@ -42,7 +42,7 @@ O projeto de implementação de ferramentas da AWS foi dividido em 3 etapas, cad
   - Possibilidade de criação de novas aplicações web based.
 
 #### 💾 Etapa 2: 
-- **[Amazon S3]**
+- **Amazon S3**
 - Página oficial da ferramenta: https://aws.amazon.com/pt/s3/
 - Com o serviço S3 da AWS é possível armazenar dados de diversos tipos com escalabilidade, disponibilidade, segurança e performance. Com este serviço é possível não só guardar dados para gerenciá-los, mas também pode permitir até criação de data lake para centralizar fonte de dados para as informações importantes da empresa.
 - **Casos de uso:**
